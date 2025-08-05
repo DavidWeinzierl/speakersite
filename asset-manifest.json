@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/speaksite/static/css/main.e74374e0.css",
+    "main.js": "/speaksite/static/js/main.09df239c.js",
+    "static/js/453.7e006039.chunk.js": "/speaksite/static/js/453.7e006039.chunk.js",
+    "static/media/hero-background.jpg": "/speaksite/static/media/hero-background.6d164c5e63e4d62562a7.jpg",
+    "index.html": "/speaksite/index.html",
+    "main.e74374e0.css.map": "/speaksite/static/css/main.e74374e0.css.map",
+    "main.09df239c.js.map": "/speaksite/static/js/main.09df239c.js.map",
+    "453.7e006039.chunk.js.map": "/speaksite/static/js/453.7e006039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e74374e0.css",
+    "static/js/main.09df239c.js"
+  ]
+}
