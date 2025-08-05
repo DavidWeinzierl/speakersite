@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/speakersite/static/css/main.93bcbc33.css",
-    "main.js": "/speakersite/static/js/main.d60b5258.js",
+    "main.js": "/speakersite/static/js/main.a426fb02.js",
     "static/js/453.7e006039.chunk.js": "/speakersite/static/js/453.7e006039.chunk.js",
     "static/media/hero-background.jpg": "/speakersite/static/media/hero-background.6d164c5e63e4d62562a7.jpg",
     "index.html": "/speakersite/index.html",
     "main.93bcbc33.css.map": "/speakersite/static/css/main.93bcbc33.css.map",
-    "main.d60b5258.js.map": "/speakersite/static/js/main.d60b5258.js.map",
+    "main.a426fb02.js.map": "/speakersite/static/js/main.a426fb02.js.map",
     "453.7e006039.chunk.js.map": "/speakersite/static/js/453.7e006039.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93bcbc33.css",
-    "static/js/main.d60b5258.js"
+    "static/js/main.a426fb02.js"
   ]
 }
